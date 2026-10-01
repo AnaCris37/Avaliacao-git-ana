@@ -1,11 +1,23 @@
+# Avaliação Git – Ana Marques
+
 Este repositório foi criado para a avaliação prática de **Git e GitHub** do curso de *Técnico de Desenvolvimento de Software*. Aqui pratiquei a criação de repositórios, commits, branches e a resolução de conflitos. Também serve para mostrar o uso de Markdown na documentação de projetos.
 
 
 ![imagem](image.png)
 ## Conteúdo do repositório
 
+
+## Tecnologias
+
+| Tecnologia | Versão |
+|:-----------|-------:|
+| Git | 2.4x |
+| GitHub | Web |
+| Visual Studio Code | 1.9x |
 | Ficheiro | Descrição |
 |:--------:|:---------:|
+
+
 | `README.md` | Apresentação do projeto |
 | `sobre-mim.txt` | Texto de apresentação pessoal |
 | `lista-tarefas` | Lista de tarefas do projeto |
