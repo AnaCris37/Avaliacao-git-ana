@@ -31,4 +31,5 @@ Este repositório foi criado para a avaliação prática de **Git e GitHub** do 
 ## Autora
 
 - **Ana Cristina Marques** – [Perfil no GitHub](https://github.com/AnaCris37)
-teste
+
+![imagem2 teste](image-1.png)
