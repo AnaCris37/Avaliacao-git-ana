@@ -7,17 +7,9 @@ Este repositório foi criado para a avaliação prática de **Git e GitHub** do 
 ## Conteúdo do repositório
 
 
-## Tecnologias
 
-| Tecnologia | Versão |
-|:-----------|-------:|
-| Git | 2.4x |
-| GitHub | Web |
-| Visual Studio Code | 1.9x |
 | Ficheiro | Descrição |
 |:--------:|:---------:|
-
-
 | `README.md` | Apresentação do projeto |
 | `sobre-mim.txt` | Texto de apresentação pessoal |
 | `lista-tarefas` | Lista de tarefas do projeto |
@@ -45,3 +37,24 @@ Este repositório foi criado para a avaliação prática de **Git e GitHub** do 
 - **Ana Cristina Marques** – [Perfil no GitHub](https://github.com/AnaCris37)
 
 ![imagem2 teste](image-1.png)
+
+
+## Comandos Git
+
+> **Nota importante:** antes de começar a trabalhar, faz sempre `git pull` para evitar conflitos.
+
+### Comandos principais
+
+```bash
+git pull
+git add .
+git commit -m "Descrição da alteração"
+git push
+```
+
+## Tarefas
+
+- [x] Criar o repositório no GitHub
+- [x] Resolver conflitos
+- [ ] Criar um branch novo
+- [ ] Fazer merge do branch para o `main`
